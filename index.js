@@ -1,7 +1,7 @@
 var cart = [];
 function setCart(newCart) {
   cart = newCart;
-@@ -15,3 +15,61 @@ function total() {
+
 
   return t
 }
